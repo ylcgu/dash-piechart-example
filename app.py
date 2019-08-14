@@ -13,7 +13,7 @@ color2 = 'f5821f'
 color3 = '683817'
 tabtitle = 'dunkin'
 sourceurl = 'https://brandpalettes.com/dunkin-donuts-color-codes/'
-githublink = 'https://github.com/austinlasseter/dunkin-donuts'
+githublink = 'https://github.com/austinlasseter/dash-piechart-example'
 
 ########### Set up the chart
 mydata = go.Pie(
