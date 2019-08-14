@@ -21,8 +21,6 @@ mydata = go.Pie(
     sort=False,
     values=myvalues,
     labels=mylabels,
-    textinfo='labels',
-    textposition='inside',
     marker={'colors': [color1, color2, color3],
             'line': {'color': 'white', 'width': 5}}
 )
